@@ -1,0 +1,38 @@
+
+---Downloaded files---
+The import files for: Agency were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://lapilli.leadinbox.app
+Data file = /home/leadinbox/www/lapilli.leadinbox.app/wp-content/uploads/2020/10/mesmerize-ocdi/demo-content-import-file_2020-10-28__23-06-46.xml
+Widget file = /home/leadinbox/www/lapilli.leadinbox.app/wp-content/uploads/2020/10/mesmerize-ocdi/demo-widgets-import-file_2020-10-28__23-06-46.json
+Customizer file = /home/leadinbox/www/lapilli.leadinbox.app/wp-content/uploads/2020/10/mesmerize-ocdi/demo-customizer-import-file_2020-10-28__23-06-46.dat
+Redux files:
+not defined!
+
+---pt-ocdi/before_content_import---
+
+
+---Importing widgets---
+Área de widget da barra lateral : 
+
+Pesquisar - No Title - Widget already exists
+Posts recentes - No Title - Widget already exists
+Comentários - No Title - Widget already exists
+Arquivos - No Title - Widget already exists
+Categorias - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+Pages Sidebar : 
+
+Pesquisar - Search - Widget already exists
+Páginas - Pages - Widget already exists
+Texto - Text Box - Widget already exists
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
